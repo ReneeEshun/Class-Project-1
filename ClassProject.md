@@ -5,16 +5,16 @@
 <ul><li>Our group will analyze the rental price index from Zillow for the years 2010 through 2015.</li>
 	<li>We will chart the rental price trends for 5* major region of the United States.</li>
 	<li>Specifically, we are looking at the northeastern, pacfic-northwest, west, south, and midwest.</li>
-	<li>We will compare the rental price trends of these major regions to the overall rates of homelessness to find any intrinsic correlation. </li></ul>
+	<li>We will compare the rental price trends of these major regions to the overall rates of homelessness to find any intrinsic correlation. </li></ul></body>
 
-	<h3>Milestones:</h3>
+<body><h3>Milestones:</h3>
 	<ul><li>Milestone 1: Wednesday: Clean data: review data sources for consistency and any anomalies that will interrupt the expected analysis.</li>
 	<li>Milestone 2: Wednesday: </li>
 		<ul><li>Confirm data sources.</li>
 		<li>Confirm Regions/Localities</li>
 		<li>Confirm Demographics</li> 
-		<li>Confirm Hypotheses for Analysis</li>
-	</ul>
+		<li>Confirm Hypotheses for Analysis</li></ul>
+	
 	<li>Milestone 3: Friday</li>
 	<ul><li>Finalize Data Clean Up</li></ul>
 	<li>Milestone 4: Sunday</li>
