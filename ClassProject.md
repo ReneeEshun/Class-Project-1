@@ -7,7 +7,7 @@
 	<li>Specifically, we are looking at the northeastern, pacfic-northwest, west, south, and midwest.</li>
 	<li>We will compare the rental price trends of these major regions to the overall rates of homelessness to find any intrinsic correlation. </li></ul>
 
-	<b>Milestones:</b>
+	<h3>Milestones:</h3>
 	<ul><li>Milestone 1: Wednesday: Clean data: review data sources for consistency and any anomalies that will interrupt the expected analysis.</li>
 	<li>Milestone 2: Wednesday: </li>
 		<ul><li>Confirm data sources.</li>
