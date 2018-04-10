@@ -14,10 +14,9 @@
 		<li>Confirm Regions/Localities</li>
 		<li>Confirm Demographics</li> 
 		<li>Confirm Hypotheses for Analysis</li></ul>
-	
 	<li>Milestone 3: Friday</li>
-	<ul><li>Finalize Data Clean Up</li></ul>
-	<li>Milestone 4: Sunday</li>
-	<ul><li>First pass of all charts. This includes the type of chart, the data being sourced in the chart rendering, the hypotheses we are testing and our analysis.</li>  </ul>
+		<ul><li>Finalize Data Clean Up</li></ul>
+		<li>Milestone 4: Sunday</li>
+		<ul><li>First pass of all charts. This includes the type of chart, the data being sourced in the chart rendering, the hypotheses we are testing and our analysis.</li>  </ul>
 	</ul>
 </body></div>
